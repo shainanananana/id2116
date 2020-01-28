@@ -4,11 +4,20 @@ body {
   }
   
   h1 {
-    color: rgb(231, 214, 114);
+    font-family: eckmann;
+    color: #540e66;
     text-align: center;
+    font-size: 40px;
   }
   
   p {
-    font-family: eckmann;
-    font-size: 40px;
+    color: #f0e15e;
+    font-family: blackoat std;
+    font-size: 10px;
+  }
+
+  h2 {
+    color: #f0e15e;
+    font-family: blackoat std;
+    font-size: 10px;
   }
