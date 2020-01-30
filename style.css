@@ -4,20 +4,21 @@ body {
   }
   
   h1 {
-    font-family: ITC clearface std;
-    color: #540e66;
+    font-family: Blackoak Std;
+    color: #ffffff;
     text-align: center;
     font-size: 40px;
   }
   
   p {
-    color: #f0e15e;
-    font-family: blackoak std;
+    color: #235e30;
+    font-family: Apercu-Mono;
     font-size: 20px;
   }
 
   h2 {
-    color: #dba903;
-    font-family: blackoak std;
+    color: #000000;
+    font-family: Apercu-Mono;
+    text-align: center;
     font-size: 30px;
   }
