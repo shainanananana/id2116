@@ -12,14 +12,14 @@ body {
   
   p {
     color: #fafafa;
-    font-family: Apercu-Mono;
+    font-family: font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 20px;
   }
 
   h2 {
     color: #000000;
-    font-family: Apercu-Mono;
+    font-family: font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 30px;
   }
